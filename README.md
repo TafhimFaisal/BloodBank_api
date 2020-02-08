@@ -1,6 +1,6 @@
 # Project description :
 
-**BloodBank BrainStation-23**
+**BloodBank**
 
 this project was build to help the HR of BS 23 to store bloodGroups and location of an employe.
 so that in emergency when any of employee needs blood of specific type then HR could call out for help 
@@ -35,9 +35,9 @@ to that employee of having that specific blood type.
 
 2. **create two file three file named**  
 
-    - BS23BloodBank.admin.conf
-	- BS23BloodBank.api.conf
-	- BS23BloodBank.conf
+    - BloodBank.admin.conf
+	- BloodBank.api.conf
+	- BloodBank.conf
 
     >In `etc/nginx/sites-available/` folder
 
